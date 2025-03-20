@@ -1,6 +1,3 @@
-Here’s an updated `README.md` file based on the provided code:
-
----
 
 # AI Landing Page 🌟
 
