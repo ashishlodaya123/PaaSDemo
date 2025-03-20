@@ -15,8 +15,9 @@ A beautifully designed **landing page** built with **Streamlit** and **Lottie an
 ## 📦 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/ai-landing-page.git
-   cd ai-landing-page
+   git clone https://github.com/ashishlodaya123/PaaSDemo.git
+   cd PaaSDemo
+
    ```
 
 2. Install the required dependencies:
@@ -40,10 +41,6 @@ A beautifully designed **landing page** built with **Streamlit** and **Lottie an
 - **Styling**: Modify the custom CSS in the `st.markdown` section to change colors, fonts, and other design elements.
 - **Content**: Update the text, buttons, and sections in the `app.py` file to match your branding.
 
-## 🖼️ Screenshots
-![Hero Section](screenshots/hero.png)
-![Features Section](screenshots/features.png)
-![Testimonials Section](screenshots/testimonials.png)
 
 ## 📄 Code Structure
 - **`app.py`**: The main Streamlit application file.
@@ -60,7 +57,7 @@ A beautifully designed **landing page** built with **Streamlit** and **Lottie an
 - **Custom CSS**: Advanced styling for a modern and professional look.
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is Open Source.
 
 ## 🙏 Credits
 - **Lottie Animations**: Provided by [LottieFiles](https://lottiefiles.com/).
